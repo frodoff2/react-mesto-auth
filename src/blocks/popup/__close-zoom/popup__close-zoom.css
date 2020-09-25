@@ -1,0 +1,27 @@
+.popup__close-zoom{
+    background-image: url(../../../images/closeicon.svg);
+    background-size: contain;
+    margin: auto;
+    width: 40px;
+    height: 40px;
+    right: -35px;
+    top: -35px;
+    position: absolute;
+    border: none;
+    background-color: transparent;
+    outline: none;
+}
+  
+  .popup__close-zoom:hover{
+    opacity: 0.6;
+    cursor: pointer;
+  }
+
+  @media (max-width: 350px){
+    .popup__close-zoom{
+      width: 30px;
+      height: 30px;
+      right: -25px;
+      top: -25px;
+    }
+  }

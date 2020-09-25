@@ -1,0 +1,12 @@
+@import url('__button/main__button.css');
+@import url('__caption/main__caption.css');
+@import url('__input/main__input.css');
+@import url('__title/main__title.css');
+@import url('__input/_margins/main__input_margins.css');
+@import url('__register/main__register.css');
+
+.main{
+    display: grid;
+    margin-top: 80px;
+    justify-content: center;
+}

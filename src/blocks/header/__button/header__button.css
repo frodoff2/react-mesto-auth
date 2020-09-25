@@ -1,0 +1,12 @@
+.header__button{
+    border: none;
+    outline-style: none;
+    width: 56px;
+    height: 22px;
+    background-color: black;
+    color: white;
+    margin-left: 52px;
+    cursor: pointer;
+    font-size: 18px;
+    margin-top: 2px;
+}

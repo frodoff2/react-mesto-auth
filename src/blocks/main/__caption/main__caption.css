@@ -1,0 +1,10 @@
+.main__caption{
+  font-family: "Inter", "Arial", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: #FFFFFF;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 80px;
+}

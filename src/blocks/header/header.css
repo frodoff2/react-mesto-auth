@@ -1,0 +1,19 @@
+@import url('__logo/header__logo.css');
+@import url('__button/header__button.css');
+@import url('__nav/header__nav.css');
+@import url('__info/header__info.css');
+
+.header{
+  max-width: 882px;
+  border-bottom: #545454 1px solid;
+  margin: 0 auto;
+  padding-top: 45px;
+  display: flex;
+  
+}
+
+@media (max-width: 900px){
+  .header{
+    padding-top: 28px;
+  }
+}

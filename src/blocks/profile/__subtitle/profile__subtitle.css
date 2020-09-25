@@ -1,0 +1,18 @@
+.profile__subtitle{
+  color: #FFFFFF;
+  font-family: "Inter", "Arial", sans-serif;
+  font-size: 18px;
+  line-height: 22px;
+  margin-top: 8px;
+}
+
+@media (max-width: 900px){
+  .profile__subtitle{
+    font-size: 14px;
+    line-height: 17px;
+    margin: auto;
+    width: 280px;
+    margin-top: 0px;
+    text-align: center;
+  }
+}
